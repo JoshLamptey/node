@@ -1,3 +1,8 @@
-const name = 'fuck off '
+//const name = 'ekua'
 
-console.log(name)
+
+function Greet(her){
+    console.log(`i want you to fuck off ${her}`);
+}
+Greet('ekua');
+Greet("mwah")
